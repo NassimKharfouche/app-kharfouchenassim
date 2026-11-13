@@ -1,0 +1,7 @@
+<?php
+return [
+    'db_host' => 'localhost',
+    'db_name' => 'app_nassim_db',
+    'db_user' => 'nassim_user',
+    'db_pass' => 'nassim',
+];
